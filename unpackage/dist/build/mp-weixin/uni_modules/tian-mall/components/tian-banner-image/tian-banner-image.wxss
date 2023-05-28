@@ -1,0 +1,1 @@
+.banner-image-container{margin:16rpx 16rpx 0;overflow:hidden}.banner-image-container .small{display:flex;flex-direction:column}.banner-image-container.full{margin:0}.banner-image-container.full .image{border-radius:0}.image{width:400rpx;height:400rpx;margin:0rpx;display:block;border-radius:6rpx}.swiper-box{border-radius:6rpx;overflow:hidden}

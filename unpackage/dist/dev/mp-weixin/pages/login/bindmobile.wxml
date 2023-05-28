@@ -1,0 +1,1 @@
+<view class="login-container"><view class="padding-top-100"><button open-type="getPhoneNumber" type="primary" data-event-opts="{{[['getphonenumber',[['getPhoneNumber',['$event']]]]]}}" bindgetphonenumber="__e">一键获取手机号</button></view></view>

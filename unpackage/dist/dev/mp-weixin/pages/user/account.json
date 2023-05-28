@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "账户管理",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons",
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item"
+  }
+}

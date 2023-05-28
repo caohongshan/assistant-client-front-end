@@ -1,0 +1,1 @@
+.uni-button-group{position:fixed;bottom:calc(0px + 40rpx);left:70rpx;right:70rpx;display:flex}.uni-button-group .uni-button{flex:1}.uni-forms .uni-forms-item{padding:6rpx}

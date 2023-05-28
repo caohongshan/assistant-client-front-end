@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "联系客服",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons"
+  }
+}

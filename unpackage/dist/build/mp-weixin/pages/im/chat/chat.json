@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-im-msg-list": "/components/uni-im-msg-list/uni-im-msg-list",
+    "uni-im-icons": "/components/uni-im-icons/uni-im-icons",
+    "uni-im-sound": "/components/uni-im-sound/uni-im-sound",
+    "uni-im-control": "/components/uni-im-control/uni-im-control"
+  }
+}

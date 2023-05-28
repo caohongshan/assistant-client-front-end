@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "优惠券",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-empty": "/uni_modules/tian-mall/components/tian-empty/tian-empty"
+  }
+}

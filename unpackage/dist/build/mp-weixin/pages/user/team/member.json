@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "粉丝",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-empty": "/uni_modules/tian-mall/components/tian-empty/tian-empty",
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons",
+    "uni-dateformat": "/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "支付成功",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-banner": "/uni_modules/tian-mall/components/tian-banner/tian-banner"
+  }
+}

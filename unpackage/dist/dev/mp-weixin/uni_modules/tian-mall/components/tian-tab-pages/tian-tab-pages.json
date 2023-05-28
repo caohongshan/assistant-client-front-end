@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tian-pages": "/uni_modules/tian-mall/components/tian-pages/tian-pages"
+  }
+}

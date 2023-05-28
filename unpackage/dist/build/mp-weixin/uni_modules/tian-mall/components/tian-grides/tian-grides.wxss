@@ -1,0 +1,1 @@
+.gride-container{border-radius:6rpx}.gride-container.full{margin:0;border-radius:0}.gride-container .item{text-align:center}.gride-container .item .image{display:block;margin:0 auto}

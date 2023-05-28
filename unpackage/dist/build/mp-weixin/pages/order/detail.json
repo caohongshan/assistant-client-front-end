@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons",
+    "uni-dateformat": "/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat",
+    "tian-express-detail": "/uni_modules/tian-express/components/tian-express-detail/tian-express-detail"
+  }
+}

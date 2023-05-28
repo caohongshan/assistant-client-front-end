@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商品分类",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tian-goods-sku": "/uni_modules/tian-mall/components/tian-goods-sku/tian-goods-sku"
+  }
+}

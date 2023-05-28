@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tian-goods-join-list": "/uni_modules/tian-mall/components/tian-goods-join-list/tian-goods-join-list"
+  }
+}

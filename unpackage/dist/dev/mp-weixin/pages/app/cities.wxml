@@ -1,0 +1,1 @@
+<view><uni-indexed-list vue-id="1a3c0656-1" options="{{dataList}}" showSelect="{{false}}" data-event-opts="{{[['^click',[['chooseCity']]]]}}" bind:click="__e" bind:__l="__l"></uni-indexed-list></view>

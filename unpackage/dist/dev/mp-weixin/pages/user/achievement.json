@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分销业绩",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-empty": "/uni_modules/tian-mall/components/tian-empty/tian-empty",
+    "tian-single-user": "/uni_modules/tian-mall/components/tian-single-user/tian-single-user",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

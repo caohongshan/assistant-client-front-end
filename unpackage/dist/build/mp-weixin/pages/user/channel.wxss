@@ -1,0 +1,2 @@
+page{background:#fff}.form-item{height:72rpx;padding-left:20rpx}.uni-container{padding:10px}.uni-input-border,
+.uni-textarea-border{width:100%;font-size:14px;color:#666;border:1px #e5e5e5 solid;border-radius:5px;box-sizing:border-box}.uni-input-border{padding:0 10px;height:35px}.uni-textarea-border{padding:10px;height:80px}.uni-button-group{margin-top:50px;display:flex;justify-content:center;position:fixed;bottom:100rpx;left:0;right:0}.uni-button{width:184px;padding:12px 20px;font-size:14px;border-radius:4px;line-height:1;margin:0}

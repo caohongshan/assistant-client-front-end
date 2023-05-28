@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "渠道",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "uqrcode": "/uni_modules/Sansnn-uQRCode/components/uqrcode/uqrcode",
+    "uni-forms": "/uni_modules/uni-forms/components/uni-forms/uni-forms",
+    "uni-forms-item": "/uni_modules/uni-forms/components/uni-forms-item/uni-forms-item",
+    "uni-easyinput": "/uni_modules/uni-easyinput/components/uni-easyinput/uni-easyinput"
+  }
+}

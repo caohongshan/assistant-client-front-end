@@ -1,0 +1,1 @@
+<scroll-view class="custom-tabbar-page data-v-67b95faa" scroll-y="{{true}}" enable-back-to-top="{{true}}" lower-threshold="{{100}}" data-event-opts="{{[['scrolltolower',[['tabbarPageScrollLower',['$event']]]]]}}" bindscrolltolower="__e"><page-a vue-id="8dd740cc-1" data-ref="pageA" class="data-v-67b95faa vue-ref" bind:__l="__l"></page-a></scroll-view>

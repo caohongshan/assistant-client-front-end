@@ -1,0 +1,1 @@
+<view class="pay-container"><view class="money"><text>{{money}}</text></view><view class="bottom"><tian-banner vue-id="4e5eabf8-1" configs="{{configs}}" bind:__l="__l"></tian-banner><view class="padding-60"><button type="warn" data-event-opts="{{[['tap',[['goHome',['$event']]]]]}}" bindtap="__e">{{"去"+appName+"消费"}}</button></view></view></view>

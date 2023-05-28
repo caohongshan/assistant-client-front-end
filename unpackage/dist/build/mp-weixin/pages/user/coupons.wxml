@@ -1,0 +1,1 @@
+<view class="container"><tian-coupons vue-id="f38df3f8-1" value="{{coupons}}" type="goto" bind:__l="__l"></tian-coupons></view>

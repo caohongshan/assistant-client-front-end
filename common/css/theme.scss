@@ -1,0 +1,66 @@
+uni-button{
+    border-radius: 30px;
+	line-height: 2;
+	white-space: nowrap;
+	&::after{
+		border-radius: 70px;
+	}
+	&.cuboid{
+		 border-radius: 0px;
+		 &::after{
+		 	border-radius: 0px;
+		 }
+	}
+	&.radius{
+		 border-radius: 10rpx;
+		 &::after{
+		 	border-radius: 10rpx;
+		 }
+	}
+}
+
+uni-checkbox .uni-checkbox-input{
+	border-radius: 50%;
+}
+.uni-popup{
+	z-index: 98 !important;
+}
+.uni-searchbar__box{
+	height: 64rpx !important;
+	border: none !important;
+}
+.form{
+	.form-item{
+		padding: 20rpx !important;
+	}
+}
+.uni-forms{
+	padding: $uni-spacing-row-lg;
+	border-radius: 12rpx;
+	background: $uni-bg-color;
+	.uni-forms-item{
+		position: relative;
+		padding-bottom: 20rpx;
+		margin-bottom: 20rpx !important;
+		&::after{
+			content: " ";
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			right: -22rpx;
+			border-bottom: 2rpx solid $uni-border-color;
+			transform:scaleY(0.5);
+		}
+		&:nth-last-child(1)::after{
+			display: none;
+		}
+	}
+	.uni-forms-item__inner{
+		padding-bottom: 20rpx !important;
+	}
+}
+.uni-numbox{
+	.uni-numbox__value,.numbox__plus,.uni-numbox__minus,.uni-numbox__plus {
+		height: 60rpx !important;
+	}
+}

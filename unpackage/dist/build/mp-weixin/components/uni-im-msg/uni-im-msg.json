@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "cloud-image": "/uni_modules/uni-id-pages/components/cloud-image/cloud-image",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-im-icons": "/components/uni-im-icons/uni-im-icons"
+  },
+  "component": true
+}

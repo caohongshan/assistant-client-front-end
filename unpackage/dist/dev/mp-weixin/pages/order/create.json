@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "确定订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons",
+    "tian-empty": "/uni_modules/tian-mall/components/tian-empty/tian-empty",
+    "tian-goods-price": "/uni_modules/tian-mall/components/tian-goods-price/tian-goods-price",
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item",
+    "tian-payment": "/uni_modules/tian-mall/components/tian-payment/tian-payment"
+  }
+}

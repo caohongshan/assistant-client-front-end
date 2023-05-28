@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "搜索结果",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tian-search-bar": "/uni_modules/tian-mall/components/tian-search-bar/tian-search-bar",
+    "tian-goods-list": "/uni_modules/tian-mall/components/tian-goods-list/tian-goods-list",
+    "tian-goods-sku": "/uni_modules/tian-mall/components/tian-goods-sku/tian-goods-sku"
+  }
+}

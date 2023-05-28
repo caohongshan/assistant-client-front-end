@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "图鸟壁纸",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "page-a": "/pages/index/component/PageA"
+  }
+}

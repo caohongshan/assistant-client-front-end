@@ -1,0 +1,38 @@
+<svg data-v-57280228="" viewBox="0 0 300 700" version="1.1" xmlns="http://www.w3.org/2000/svg"
+	preserveAspectRatio="xMidYMid meet">
+	<rect data-v-57280228="" clip-path="url(#8sogvu766mh)" x="0" y="0" width="300" height="700"
+		style="fill: url(&quot;#5f0hptijot&quot;);"></rect>
+	<defs data-v-57280228="">
+		<clipPath data-v-57280228="" id="8sogvu766mh">
+			<rect data-v-57280228="" x="10" y="40" rx="5" width="280" height="120"></rect>
+			<circle data-v-57280228="" cx="40" cy="190" r="20"></circle>
+			<circle data-v-57280228="" cx="100" cy="190" r="20"></circle>
+			<circle data-v-57280228="" cx="160" cy="190" r="20"></circle>
+			<circle data-v-57280228="" cx="210" cy="190" r="20"></circle>
+			<circle data-v-57280228="" cx="260" cy="190" r="20"></circle>
+			<rect data-v-57280228="" x="10" y="220" rx="3" ry="3" width="80" height="80"></rect>
+			<rect data-v-57280228="" x="100" y="220" rx="3" ry="3" width="80" height="80"></rect>
+			<rect data-v-57280228="" x="190" y="220" rx="3" ry="3" width="80" height="80"></rect>
+			<rect data-v-57280228="" x="10" y="310" rx="40" ry="40" width="280" height="60"></rect>
+			<rect data-v-57280228="" x="20" y="380" rx="3" ry="3" width="220" height="10"></rect>
+			<rect data-v-57280228="" x="20" y="400" rx="3" ry="3" width="170" height="10"></rect>
+			<rect data-v-57280228="" x="20" y="420" rx="3" ry="3" width="250" height="10"></rect>
+			<rect data-v-57280228="" x="20" y="440" rx="3" ry="3" width="200" height="10"></rect>
+			<rect data-v-57280228="" x="20" y="460" rx="3" ry="3" width="80" height="10"></rect>
+		</clipPath>
+		<linearGradient data-v-57280228="" id="5f0hptijot">
+			<stop data-v-57280228="" offset="-0.399297" stop-color="#f9f9f9" stop-opacity="1">
+				<animate data-v-57280228="" attributeName="offset" values="-2; 1" dur="2s" repeatCount="indefinite">
+				</animate>
+			</stop>
+			<stop data-v-57280228="" offset="0.100703" stop-color="#ecebeb" stop-opacity="1">
+				<animate data-v-57280228="" attributeName="offset" values="-1.5; 1.5" dur="2s" repeatCount="indefinite">
+				</animate>
+			</stop>
+			<stop data-v-57280228="" offset="0.600703" stop-color="#f9f9f9" stop-opacity="1">
+				<animate data-v-57280228="" attributeName="offset" values="-1; 2" dur="2s" repeatCount="indefinite">
+				</animate>
+			</stop>
+		</linearGradient>
+	</defs>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tian-banner": "/uni_modules/tian-mall/components/tian-banner/tian-banner",
+    "tian-map-location": "/uni_modules/tian-mall/components/tian-map-location/tian-map-location",
+    "tian-grides": "/uni_modules/tian-mall/components/tian-grides/tian-grides",
+    "tian-search-bar": "/uni_modules/tian-mall/components/tian-search-bar/tian-search-bar",
+    "tian-article": "/uni_modules/tian-article/components/tian-article/tian-article",
+    "tian-title": "/uni_modules/tian-mall/components/tian-title/tian-title",
+    "tian-banner-image": "/uni_modules/tian-mall/components/tian-banner-image/tian-banner-image",
+    "tian-goods-list": "/uni_modules/tian-mall/components/tian-goods-list/tian-goods-list",
+    "tian-goods-layout": "/uni_modules/tian-mall/components/tian-goods-layout/tian-goods-layout",
+    "tian-goods-join-list": "/uni_modules/tian-mall/components/tian-goods-join-list/tian-goods-join-list",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "tian-goods-sku": "/uni_modules/tian-mall/components/tian-goods-sku/tian-goods-sku"
+  }
+}

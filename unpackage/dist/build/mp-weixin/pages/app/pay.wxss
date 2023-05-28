@@ -1,0 +1,1 @@
+page{height:100%}.pay-container{height:100%}.jianpan{position:absolute;bottom:0;left:0;right:0;font-size:36rpx;line-height:3.2;font-weight:500}.jianpan .unbutton{line-height:3.2;border-radius:0;background:none}.guangbiao{transition:.5s;color:#000}.guangbiao.active{color:silver}

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tian-title": "/uni_modules/tian-mall/components/tian-title/tian-title",
+    "tian-goods-image-cover": "/uni_modules/tian-mall/components/tian-goods-image-cover/tian-goods-image-cover",
+    "tian-goods-price": "/uni_modules/tian-mall/components/tian-goods-price/tian-goods-price"
+  },
+  "component": true
+}

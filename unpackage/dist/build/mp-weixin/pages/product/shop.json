@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "店铺信息",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tian-pages": "/uni_modules/tian-mall/components/tian-pages/tian-pages",
+    "tian-goods-list": "/uni_modules/tian-mall/components/tian-goods-list/tian-goods-list",
+    "unicloud-db": "/node-modules/@dcloudio/uni-cli-shared/components/unicloud-db",
+    "tian-empty": "/uni_modules/tian-mall/components/tian-empty/tian-empty",
+    "tian-goods-sku": "/uni_modules/tian-mall/components/tian-goods-sku/tian-goods-sku"
+  }
+}

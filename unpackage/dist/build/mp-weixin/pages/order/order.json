@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "订单管理",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "unicloud-db": "/node-modules/@dcloudio/uni-cli-shared/components/unicloud-db",
+    "tian-empty": "/uni_modules/tian-mall/components/tian-empty/tian-empty",
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons",
+    "uni-dateformat": "/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "tian-payment": "/uni_modules/tian-mall/components/tian-payment/tian-payment"
+  }
+}

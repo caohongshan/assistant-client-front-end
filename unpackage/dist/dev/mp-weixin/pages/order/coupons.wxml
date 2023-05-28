@@ -1,0 +1,1 @@
+<view class="container"><tian-empty vue-id="42ac487a-1" text="暂无可用优惠券" bind:__l="__l"></tian-empty></view>

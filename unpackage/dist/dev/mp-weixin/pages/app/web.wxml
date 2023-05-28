@@ -1,0 +1,1 @@
+<view class="container"><block wx:if="{{content}}"><rich-text nodes="{{content}}"></rich-text></block><block wx:else><block wx:if="{{src}}"><web-view src="{{src}}"></web-view></block></block></view>

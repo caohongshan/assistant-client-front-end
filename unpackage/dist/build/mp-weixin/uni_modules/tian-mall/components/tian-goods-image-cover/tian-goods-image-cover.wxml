@@ -1,0 +1,1 @@
+<view><block wx:if="{{item.miaosha&&item.miaosha.is_begin}}"><image class="miaosha-cover" style="{{(coverStyle)}}" src="../../../../static/images/miaosha_cover.png" mode="widthFix"></image></block></view>

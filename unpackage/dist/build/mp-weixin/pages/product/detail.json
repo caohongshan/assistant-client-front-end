@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tian-goods-price": "/uni_modules/tian-mall/components/tian-goods-price/tian-goods-price",
+    "uni-dateformat": "/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat",
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons",
+    "tian-goods-sku": "/uni_modules/tian-mall/components/tian-goods-sku/tian-goods-sku",
+    "tian-goods-nav": "/uni_modules/tian-mall/components/tian-goods-nav/tian-goods-nav",
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "group-buying-page": "/pages/product/components/group-buying"
+  }
+}

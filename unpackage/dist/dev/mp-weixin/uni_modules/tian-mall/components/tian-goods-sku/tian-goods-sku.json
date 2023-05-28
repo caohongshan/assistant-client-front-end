@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "tian-goods-price": "/uni_modules/tian-mall/components/tian-goods-price/tian-goods-price",
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "uni-number-box": "/uni_modules/uni-number-box/components/uni-number-box/uni-number-box",
+    "tian-goods-nav": "/uni_modules/tian-mall/components/tian-goods-nav/tian-goods-nav"
+  }
+}

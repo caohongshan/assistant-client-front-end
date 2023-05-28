@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tian-icons": "/uni_modules/tian-mall/components/tian-icons/tian-icons",
+    "uni-number-box": "/uni_modules/uni-number-box/components/uni-number-box/uni-number-box"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商品评价",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-dateformat": "/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat"
+  }
+}

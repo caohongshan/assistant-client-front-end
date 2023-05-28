@@ -1,0 +1,1 @@
+<view class="{{['code-view',(isRotate)?'isRotate':'']}}">默认不启用代码浏览模块，如有需要请关闭注释</view>

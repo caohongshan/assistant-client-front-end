@@ -1,0 +1,9 @@
+
+.miaosha-cover {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100rpx;
+	z-index: 2;
+}
+

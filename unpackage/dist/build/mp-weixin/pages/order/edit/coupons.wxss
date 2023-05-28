@@ -1,0 +1,1 @@
+page{background:#fff}.tabs{display:flex;background:#fff}.tabs .tab{flex:1;text-align:center;padding:20rpx}.tabs .tab.current{color:#dd524d}.content{padding:22rpx}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "页面",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tian-tab-pages": "/uni_modules/tian-mall/components/tian-tab-pages/tian-tab-pages",
+    "tian-pages": "/uni_modules/tian-mall/components/tian-pages/tian-pages"
+  }
+}

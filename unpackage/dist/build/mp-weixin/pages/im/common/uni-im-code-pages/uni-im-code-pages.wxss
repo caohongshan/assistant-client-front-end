@@ -1,0 +1,2 @@
+.text-box,
+.code-view{background-color:#fffae5!important;flex:1;width:750rpx;width:100vw;height:100vh}#rotate{position:fixed;right:10px;top:60px;z-index:999}
